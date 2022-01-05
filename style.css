@@ -9,3 +9,6 @@ body{
 .dimensions{
     height: calc(100vh - 172px)
 }
+.sidebar{
+    width: 12.5%;
+}
